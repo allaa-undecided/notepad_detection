@@ -18,7 +18,7 @@ from transformers import (
 # =========================
 # HUGGING FACE LOGIN
 # =========================
-HF_TOKEN = "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"
+HF_TOKEN = "YOUR_HF_TOKEN_HERE"
 login(token=HF_TOKEN)
 
 # =========================
