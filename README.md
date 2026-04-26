@@ -61,3 +61,17 @@ Automatically:
 - Requests (API)
 - PIL (image processing)
 
+## 🚀 Future Improvements & Next Steps
+
+While the current system achieves robust desktop automation using vision-based grounding, some future enhancement can include:
+
+
+### 🧠 Better Verification
+- Replace binary YES/NO verification with confidence-based validation
+- Add multiple verification prompts for higher certainty
+
+### ⚡ Performance Optimization
+- Enable GPU acceleration for faster inference
+- Reduce image resolution adaptively based on context
+- Cache intermediate results where possible
+
